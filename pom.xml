@@ -324,6 +324,11 @@
             <artifactId>jjwt</artifactId>
             <version>${jjwt.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.amazonaws</groupId>
+            <artifactId>aws-java-sdk</artifactId>
+            <version>1.11.450</version>
+        </dependency>
         <!-- Spring Cloud -->
         <dependency>
             <groupId>net.logstash.logback</groupId>
